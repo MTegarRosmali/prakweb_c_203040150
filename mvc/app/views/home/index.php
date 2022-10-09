@@ -1,2 +1,9 @@
-
-    <h1>Selamat Datang di Website Tegar</h1>
+<div class="container">
+    <div class="jumbotron mt-5">
+        <h1 class="display-4">Selamat Datang di Website TEGAR</h1>
+        <p class="lead">Nama saya M.Tegar Nurul Fuad Rosmali 203040150</p>
+        <hr class="my-4">
+        <p>Saya adalah Mahasiswa di Universitas Pasundan yang beralamat di jl.setiabudi</p>
+        <a class="btn btn-primary btn-lg" href="#" role="button">learn more</a>
+    </div>
+</div>
